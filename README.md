@@ -1,3 +1,7 @@
+# MOVED
+This repository has been transferred to Canonical's org and now lives at https://github.com/canonical/interface-tester-pytest.
+
+
 # Interface-tester-pytest
 
 This repository contains a library meant to facilitate compliance testing of charm relation interfaces.
